@@ -5,16 +5,16 @@
 Find out more about me & feel free to connect with me here:
 
 <p align="left">
-    <a href="mailto:asmitbm2952002@gmail.com">
+    <a href="mailto:priyanpaulraj@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	<a href="https://www.linkedin.com/in/priyanpaulraj/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://dev.to/asmit2952">
+	<a href="https://leetcode.com/priyan-p/">
 		<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 	</a>
-  <a href="https://asmit2952.github.io/">
+  <a href="https://www.hackerrank.com/priyan_p?hr_r=1">
 		<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 	</a>
     <a href="https://stackoverflow.com/users/12546420/priyan?tab=profile">
@@ -42,11 +42,5 @@ Find out more about me & feel free to connect with me here:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyanpaulraj&show_icons=true&hide_border=true&theme=nightowl" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanpaulraj&hide_border=true&theme=nightowl" />
 </p>
-
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2021: My Experience](https://dev.to/asmit2952/hacktoberfest-2021-my-experience-3k5l)
-<!-- BLOG-POST-LIST:END -->
 
 ---
