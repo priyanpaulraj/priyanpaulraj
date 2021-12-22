@@ -1,8 +1,6 @@
-# Hey, I am Priyan! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
+# Hey, I am Priyan! <img src="assets/cool.gif" width="30px">
 
-<img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
-
-
+<img src="assets/hello-world-banner.jpg">
 
 Find out more about me & feel free to connect with me here:
 
@@ -31,8 +29,6 @@ Find out more about me & feel free to connect with me here:
 ---
 
 ## ⚡ Tech Stack
-
-### 🚀 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
