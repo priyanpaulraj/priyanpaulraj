@@ -2,9 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
+
+
 Find out more about me & feel free to connect with me here:
 
-<p align="center">
+<p align="left">
 	<a href="https://www.linkedin.com/in/priyanpaulraj/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
@@ -24,7 +26,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=priyanpaulraj&hide_border=true&theme=vue-dark)
+![Priyan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=priyanpaulraj&hide_border=true&theme=vue-dark)
 
 ---
 
