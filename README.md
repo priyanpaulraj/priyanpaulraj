@@ -26,7 +26,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-![Priyan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=priyanpaulraj&hide_border=true&theme=vue-dark)
+![Priyan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=priyanpaulraj&hide_border=true&theme=nord)
 
 ---
 
