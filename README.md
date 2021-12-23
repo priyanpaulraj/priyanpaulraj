@@ -1,4 +1,4 @@
-# Hey, I am Priyan! <img src="assets/cool.gif" width="30px">
+# Hey, I am Priyan! <img src="assets/Skills.gif" width="30px">
 
 <img src="assets/hello-world-banner.jpg">
 
