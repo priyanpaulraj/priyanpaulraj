@@ -1,6 +1,6 @@
-# <img src="assets/cool.gif" width="30px">
+# Hey! I'm Priyan <img src="assets/cool.gif" width="30px">
 
-<img src="assets/skills2.gif">
+<img src="assets/hello-world-banner.jpg">
 
 Find out more about me & feel free to connect with me here:
 
