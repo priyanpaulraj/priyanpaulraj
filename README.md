@@ -1,4 +1,4 @@
-# You landed! <img src="assets/cool.gif" width="30px">
+# <img src="assets/cool.gif" width="30px">
 
 <img src="assets/skills2.gif">
 
