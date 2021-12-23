@@ -1,6 +1,6 @@
 # Hey, I am Priyan! <img src="assets/cool.gif" width="30px">
 
-<img src="assets/Skills.gif">
+<img src="assets/skills2.gif">
 
 Find out more about me & feel free to connect with me here:
 
