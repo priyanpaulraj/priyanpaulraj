@@ -3,8 +3,8 @@
 <!-- <img src="assets/hello-world-banner.jpeg"> -->
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg?sanitize=true">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;	This+is+Priyan;Nice+to+meet+you!&center=true&size=25">
+  <img href="https://git.io/typing-svg?sanitize=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines={Hello + World}+👋;	This+is+Priyan;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
