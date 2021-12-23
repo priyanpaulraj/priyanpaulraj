@@ -3,12 +3,7 @@
 <!-- <img src="assets/hello-world-banner.jpeg"> -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-<!-- <h1 align="center">
-  <!-- <img href="https://git.io/typing-svg?sanitize=true"> -->
-    <img src="https://readme-typing-svg.herokuapp.com/?lines={Hello + World}+👋;	This+is+Priyan;Nice+to+meet+you!&center=true&size=25&sanitize=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines={Hello+World}+👋;This+is+Priyan;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
  -->
