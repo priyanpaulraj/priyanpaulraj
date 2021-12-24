@@ -37,9 +37,9 @@
 	</a>
 </p>
 
----
+<!-- --- -->
 
-![Priyan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=priyanpaulraj&hide_border=true&theme=react-dark)
+<!-- ![Priyan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=priyanpaulraj&hide_border=true&theme=react-dark) -->
 
 ---
 
